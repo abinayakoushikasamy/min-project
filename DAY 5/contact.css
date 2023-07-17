@@ -1,0 +1,180 @@
+/* form strat */
+.hire-icon {
+    margin-bottom: 100px;
+    text-align: center;
+  }
+  .heir-icon-main{
+      width: 30%;
+      float: left;
+      text-align: center;
+  }
+  .heir-icon-main span {
+      display: block;
+      color:black;
+  }
+  .heir-icon-main2 span {
+      display: block;
+      color:black;
+      font-family: "Open Sans", sans-serif;
+      font-weight: 600;
+  }
+  .heir-icon-main3 span {
+      display: block;
+  }
+  .heir-icon-main i {
+      width: 60px;
+      height: 60px;
+      border: 1px solid black;
+      border-radius: 50%;
+      line-height: 60px;
+      color: black;
+      font-size: 30px;
+      margin: 25px 0;
+      transition: ease-in-out .5s;
+  }
+  .heir-icon-main a {
+      text-decoration: none;
+      color:black;
+      font-family: "Open Sans", sans-serif;
+      font-weight: 600;
+      padding: 3px 0;
+      display: inline-block;
+  }
+  .heir-icon-main2{
+      width: 30%;
+      float: left;
+      text-align: center;
+  }
+  .heir-icon-main3{
+      width: 30%;
+      float: left;
+      text-align: center;
+  }
+  .heir-icon-main2 i{
+      width: 60px;
+      height: 60px;
+      border: 1px solid black;
+      border-radius: 50%;
+      line-height: 60px;
+      color:black;
+      font-size: 30px;
+      margin: 25px 0;
+      transition: ease-in-out .5s;
+  }
+  .heir-icon-main3 i {
+      width: 60px;
+      height: 60px;
+      border: 1px solid ;
+      border-radius: 50%;
+      line-height: 60px;
+      color:black;
+      font-size: 30px;
+      margin: 25px 0;
+      transition: ease-in-out .5s;
+  }
+  .heir-icon-main i:hover{
+      background-color: black;
+      color: black;
+  }
+  .heir-icon-main2 i:hover{
+      background-color:black;
+      color: black;
+  }
+  .heir-icon-main3 i:hover{
+      background-color:black;
+      color: black;
+  }
+  .heir-icon-main3 a {
+      text-decoration: none;
+      color:black;
+      font-family: "Open Sans", sans-serif;
+      font-weight: 600;
+      padding: 3px 0;
+      display: inline-block;
+  }
+  
+  
+  
+  /* form */
+
+  .form-heir-me {
+    background-color:white;
+    padding: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .form-input-name{
+      float: left;
+      width: 45%;
+  }
+  .form-input-name input {
+      display: block;
+      margin-bottom: 30px;
+      padding: 20px 10px;
+      width: 100%;
+      border: 1px solid #00000036;
+  }
+  .form-input-textara{
+      float: right;
+      width: 48%;
+  }
+  .form-input-textara textarea{display: block;
+    margin-bottom: 30px;
+    padding: 20px 10px;
+    width: 100%;
+    border: 1px solid black;}
+  
+  
+  .heirme-button{
+      clear: both;
+      text-align: center;
+  }
+  .heirme-button a {
+    text-decoration: none;
+    padding: 18px 75px;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-top: 29px;
+    transition: ease-in-out .5s;
+    background-color:black;
+    display: inline-block;
+    color: white;
+  }
+  .heirme-button a:hover{
+        background-color:black;
+  }
+  .width-section {
+  
+    box-shadow: 0px 0px 75px #d6d7e7;
+  }
+  .hire-me-section{
+      margin-bottom: 60px;
+  }
+  
+  /* footer strat */
+  .footer {
+      text-align: center;
+      padding: 20px;
+  }
+  .secoal-menue{margin-bottom: 50px;margin-top: 18px;}
+  .secoal-menue i {
+      font-size: 20px;
+      width: 50px;
+      height: 50px;
+      background: #fff;
+      border: 1px solid #606060de;
+      border-radius: 50%;
+      line-height: 50px;
+      color: #606060de;
+      margin: 0px 20px;
+      transition: ease-in-out .5s;
+  }
+  .secoal-menue i:hover{
+      background-color: #ED116D;
+      color: white;
+      border-color:#ED116D;
+  }
+  .footer-tex{margin-bottom: 25px;}
+  .footer-tex h4{font-family: "Open Sans", sans-serif;font-weight: 400;font-size: 18px;}
+  .footer-tex span{color:black;}
