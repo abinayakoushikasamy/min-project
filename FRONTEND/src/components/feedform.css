@@ -1,0 +1,65 @@
+/* CSS for FeedForm component */
+
+.down {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .login-form {
+    background-color: #f1f1f1;
+    border-radius: 8px;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .login-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .login-form form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .login-form input {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .login-form button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .login-form button:hover {
+    background-color: #0056b3;
+  }
+  
+  .button {
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  /* Optional: Add some additional styles to make the form more appealing */
+  
+  .login-form input::placeholder {
+    color: #999;
+  }
+  
+  .login-form button:focus {
+    outline: none;
+  }
+  
+  /* Customize form appearance based on your preferences */
+  
